@@ -6,11 +6,11 @@ require("dotenv").config();
 
 // Youtube API Key. Check readme file
 const key = process.env.YT_API_KEY;
-const file_name = process.env.FILE_NAME_WITH_EXT;
+const file_path = process.env.FILE_PATH;
 
 // Creating a stream for readling links.txt
 const file = readLine.createInterface({
-  input: fs.createReadStream(file_name, process.env.ENCODING_FORMAT),
+  input: fs.createReadStream(file_path, process.env.ENCODING_FORMAT),
   output: process.stdout,
   terminal: false,
 });

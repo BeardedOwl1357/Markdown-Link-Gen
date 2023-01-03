@@ -1,16 +1,3 @@
 LINKS ARE BELOW 
 
-[Eagles - Take It Easy (Live on MTV 1994) (Official Video) [HD]](https://www.youtube.com/watch?v=AaBw37-nWaY&list=PLx0sYbCqOb8TBPRdmBHs5Iftvv9TPboYG&index=10)
-[OAuth 2.0 Setup | Exploring YouTube Data API (Part-6)](youtu.be/cUx9qUkYJgk)
-[Searching Oldest YouTube Videos on Any Topic | Exploring YouTube Data API (Part-3)](youtu.be/H4fQUHVvbX8)
-[Getting Started with YouTube Data API | Exploring YouTube Data API (Part-1)](youtu.be/-QMg39gK624)
-[Sam Smith - Love Me More (Official Music Video)](https://www.youtube.com/watch?v=H1hDzq98WIY&list=PLx0sYbCqOb8TBPRdmBHs5Iftvv9TPboYG&index=19)
-[What Time Do They Upload Videos? | Exploring YouTube Data API (Part-8)](youtu.be/9n4uJG_Qg44)
-[Full Self Improvement Guide: How To Fix Your Life As A Young Man](https://youtu.be/PYaixyrzDOk)
-[Finding Most Disliked Videos of a Channel | Exploring YouTube Data API (Part-5)](youtu.be/wq570TYG-eg)
-[BLACKPINK - ‘Pink Venom’ M/V](https://www.youtube.com/watch?v=gQlMMD8auMs&list=PLx0sYbCqOb8TBPRdmBHs5Iftvv9TPboYG&index=17)
-[BLACKPINK - ‘Shut Down’ M/V](https://www.youtube.com/watch?v=POe9SOEKotk&list=PLx0sYbCqOb8TBPRdmBHs5Iftvv9TPboYG&index=9)
-[Searching Content using YouTube Data API | Exploring YouTube Data API (Part-2)](youtu.be/b_jOJNUD350)
-[Fetching All Videos of a Channel | Exploring YouTube Data API (Part-4)](youtu.be/IK5UUrPglTM)
-[Shawn Mendes - When You're Gone](https://www.youtube.com/watch?v=tp4fUH2E8uc&list=PLx0sYbCqOb8TBPRdmBHs5Iftvv9TPboYG&index=14)
-[Like & Comment on Video | Exploring YouTube Data API (Part-7)](youtu.be/Nr-gYadj5dw)
+[package-lock.json explained](https://www.youtube.com/watch?v=H3n75nHN5qY)
